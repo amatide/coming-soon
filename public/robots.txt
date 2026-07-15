@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://editama.web.id/sitemap.xml
